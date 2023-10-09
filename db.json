@@ -1,0 +1,40 @@
+{
+  "furniture": [
+    {
+      "img": "imgs/ImgOne.png",
+      "Type": "Living Room",
+      "ProductName": "White Aesthetic Chair",
+      "ProductAbout": "Combination of wood and wool",
+      "ProductPrice": 62.23,
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...Read More",
+      "id": 1
+    },
+    {
+      "img": "imgs/ImgTwo.png",
+      "Type": "Chair",
+      "ProductName": "White Aesthetic Chair",
+      "ProductAbout": "Combination of wood and wool",
+      "ProductPrice": 63.47,
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...Read More",
+      "id": 2
+    },
+    {
+      "img": "imgs/ImgThree.png",
+      "Type": "Lamp",
+      "ProductName": "Bardono Smart Lamp",
+      "ProductAbout": "Easy to use with bluetooth connection",
+      "ProductPrice": 62.23,
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...Read More",
+      "id": 3
+    },
+    {
+      "img": "imgs/ImgFour.png",
+      "Type": "Sofa",
+      "ProductName": "Sofa Empuk Banget",
+      "ProductAbout": "Using kapuk randu material",
+      "ProductPrice": 58.39,
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...Read More",
+      "id": 4
+    }
+  ]
+}
